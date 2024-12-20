@@ -16,6 +16,7 @@ I analyzed the dataset to understand its structure, identify key patterns, and u
 - **Gross Margins in the Value Chain:** Farmers capture the largest share of the gross margin, indicating the value of primary production, while wholesalers operate on narrower profit margins.
 - **Crop and Livestock Production:** Grain/cereal and maize dominate crop production in Gauteng, while cattle and pigs lead livestock farming. Smaller-scale livestock and specialty crops cater to specialized markets.
 ### Recommendation
+
 Following a comprehensive analysis of the data, the following recommendations are proposed to ensure there is an improve in sale and operations of Earth To Home Company
 1. Grain/Cereal and Maize are the most produced crops in Gauteng, therefore it is essential to prioritize investment in these crops for large-scale production and distribution as they are essential commodities with consistent demand.
 2. There is need to provides actionable optimized agricultural operations, enhance farmer productivity, and ensure a stable supply chain.
