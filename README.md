@@ -18,7 +18,7 @@ I analyzed the dataset to understand its structure, identify key patterns, and u
 ### Recommendation
 
 Following a comprehensive analysis of the data, the following recommendations are proposed to ensure there is an improve in sale and operations of Earth To Home Company
-1. Grain/Cereal and Maize are the most produced crops in Gauteng, therefore it is essential to prioritize investment in these crops for large-scale production and distribution as they are essential commodities with consistent demand.
-2. There is need to provides actionable optimized agricultural operations, enhance farmer productivity, and ensure a stable supply chain.
+1. Grain/Cereal and Maize are the most produced crops in Gauteng, therefore, it is essential to prioritize investment in these crops for large-scale production and distribution as they are essential commodities with consistent demand.
+2. There is need to provide actionable optimized agricultural operations, enhance farmer productivity, and ensure a stable supply chain.
 3. Adequate partnership with agricultural research institutes or seed companies to provide high-yield and disease-resistant seeds to farmers in their network. This will ensure farmers have access to better-quality inputs, the company can improve the quantity and quality of produce sourced for distribution.
 4. Emphasis should be placed on supporting farmers with better financial tools, improved irrigation systems, and high-quality inputs. By addressing these areas, stakeholders can foster sustainable practices, enhance profitability, and strengthen the food supply chain in South Africa.
