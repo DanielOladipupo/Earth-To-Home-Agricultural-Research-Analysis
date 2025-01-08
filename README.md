@@ -22,3 +22,7 @@ Following a comprehensive analysis of the data, the following recommendations ar
 2. There is need to provide actionable optimized agricultural operations, enhance farmer productivity, and ensure a stable supply chain.
 3. Adequate partnership with agricultural research institutes or seed companies to provide high-yield and disease-resistant seeds to farmers in their network. This will ensure farmers have access to better-quality inputs, the company can improve the quantity and quality of produce sourced for distribution.
 4. Emphasis should be placed on supporting farmers with better financial tools, improved irrigation systems, and high-quality inputs. By addressing these areas, stakeholders can foster sustainable practices, enhance profitability, and strengthen the food supply chain in South Africa.
+
+
+
+"Data and visualisations redacted for privacy"
