@@ -25,4 +25,4 @@ Following a comprehensive analysis of the data, the following recommendations ar
 
 
 
-_ _Data and visualisations redacted for privacy_ _
+ _Data and visualisations redacted for privacy_ 
